@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Nodejs & Express**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://kiran2530.github.io/My-Portfolio/](https://kiran2530.github.io/My-Portfolio/)
 
