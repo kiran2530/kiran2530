@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MongoDB & Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://kiran2530.github.io/My-Portfolio/](https://kiran2530.github.io/My-Portfolio/)
 
-- 💬 Ask me about **DSA, MERN, Java**
+- 💬 Ask me about **DSA, MERN, Java, C, C++, Webdev**
 
 - 📫 How to reach me **nikamsarkar464@gmail.com**
 
